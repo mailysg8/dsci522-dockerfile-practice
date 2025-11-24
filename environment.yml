@@ -1,0 +1,9 @@
+name: docker_practice
+channels:
+  - conda-forge
+dependencies:
+  - pandas=2.3.3
+  - python=3.11
+  - numpy=2.3.5
+  - conda-lock=3.0.4
+prefix: /Users/mailysguedon/miniforge3/envs/docker_practice
